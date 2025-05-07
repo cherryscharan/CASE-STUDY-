@@ -41,8 +41,8 @@ b) Snapshot storage consumes 20% extra on average
 
 # Case Study: Resource Allocation and Cost Optimization in an OpenStack Private Cloud
 
-**Name:** Sri hari R
-**Register Number:** 212223040202
+**Name:** charan kumar s
+**Register Number:** 212223220015
 
 ---
 
